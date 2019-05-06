@@ -1,2 +1,2 @@
 # LinkedList
-LinkedList Assignment in Data Structures
+LinkedList and LinkedQueue Assignments in Data Structures
